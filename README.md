@@ -26,28 +26,7 @@ Este projeto foi desenvolvido como parte de um desafio técnico para desenvolved
 
 ---
 
-## 🚀 Como rodar o projeto localmente
-
-```bash
-# Clonar o repositório
-git clone https://github.com/seu-usuario/Desafio-WebDeveloper.git
-
-# Entrar na pasta do projeto
-cd Desafio-WebDeveloper
-
-# Instalar dependências
-composer install
-
-# Duplicar o arquivo de ambiente e configurar
-cp .env.example .env
-
-# Rodar servidor local
-php spark serve
-```
----
-
 # 👨‍💻 Autor -  Samuel Leal - DesenvolvedorWeb Junior.
 
-- 📬 Contato: 
 - LinkedIn www.linkedin.com/in/samuel-leal-33763a372
 -  E-mail samuleal007@gmail.com
