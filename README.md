@@ -28,6 +28,5 @@ Este projeto foi desenvolvido como parte de um desafio técnico para desenvolved
 
 # 👨‍💻 Autor -  Samuel Leal - DesenvolvedorWeb Junior.
 
-- 📬 Contato: 
 - LinkedIn www.linkedin.com/in/samuel-leal-33763a372
 -  E-mail samuleal007@gmail.com
